@@ -1,4 +1,4 @@
-# minimax-checkers
+# Checkers with Minimax AI
 
 This project includes the implementation of a standard 12 vs 12 checkers AI in Java that uses the minimax algorithm along with fail-soft alpha-beta pruning to increase tree traversal speed. 
 
